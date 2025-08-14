@@ -1,3 +1,5 @@
+THe Backend should be placed in XAMPP Htdocs , and import the sql file into mysql 
+enjoy project nyama
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
